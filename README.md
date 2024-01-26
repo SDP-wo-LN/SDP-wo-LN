@@ -1,5 +1,3 @@
-# SDP-wo-LN
-
 # Usage
 
 ## Installation Instructions
